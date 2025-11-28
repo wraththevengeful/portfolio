@@ -131,7 +131,7 @@ function Education() {
                     alignment={"R"}
                 ></EducationBox>
             </div>
-            {/* <div className="educationTiles">
+            <div className="educationTiles">
                 <EducationDate educationDate={"Graduated 2018"} alignment={"R"}></EducationDate>
                 <WhiteCircle></WhiteCircle>
                 <EducationBox
@@ -154,7 +154,7 @@ function Education() {
                     schoolDesc={"Graduated SSLC under Tamil Nadu state board first class."}
                     alignment={"R"}
                 ></EducationBox>
-            </div> */}
+            </div>
         </section>
     )
 }
