@@ -104,7 +104,7 @@ function Projects() {
                     isDemoAvailable={true}
                 ></ProjectTile>
             </div>
-            <MoreProjectsText githubUrl={"#"}></MoreProjectsText>
+            <MoreProjectsText githubUrl={"https://github.com/wraththevengeful/"}></MoreProjectsText>
         </>
     )
 }
