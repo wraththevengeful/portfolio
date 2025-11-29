@@ -159,14 +159,14 @@ section#EducationSection {
     .educationDateRightAlign {
         transform: none;
         opacity: 0;
-        right: 70px;
+        right: 60px;
         top: 40px;
     }
 
     .educationDateLeftAlign {
         transform: none;
         opacity: 0;
-        right: 70px;
+        right: 60px;
         top: 40px;
     }
 
@@ -178,7 +178,7 @@ section#EducationSection {
 
     .educationBoxLeftAlign,
     .educationBoxRightAlign {
-        left: 20px;
+        left: 30px;
         top: 0px;
         transform: none;
     }
